@@ -16,6 +16,7 @@ export default defineConfig({
     host: '0.0.0.0',
     allowedHosts: [
       'traffichivetest.onrender.com',
+      'traffichive-frontend.onrender.com',
       'localhost',
       '127.0.0.1'
     ]
