@@ -15,7 +15,7 @@ const modelDetails = {
     description: 'Say goodbye to traffic jams and frustrating delays! At Traffic Hive, we\'ve crafted a state-of-the-art solution to transform how cities handle traffic. Our Smart Signal and Congestion Management system is designed to optimize traffic flow and minimize congestion, ensuring a smoother journey for everyone.',
     subtitle: 'Experience the difference with Traffic Hive—where technology meets smoother travel!',
     buttonText: 'TRY NOW',
-    tryNowLink: 'https://traffic-hive.vercel.app/',
+    tryNowLink:  'https://traffic-signal-sigma.vercel.app',
     image: smartTrafficLight
   },
   'real-time-route': {
@@ -48,7 +48,7 @@ const modelDetails = {
     description: 'We\'re revolutionizing the way you park! At Traffic Hive, we bring you a seamless, smart, and efficient parking experience designed to save your time and eliminate stress. Whether you\'re heading to work, shopping, or enjoying a day out, our system ensures a hassle-free journey from start to finish.',
     subtitle: 'Find. Park. Relax. Welcome to the future of parking!',
     buttonText: 'BOOK NOW',
-    tryNowLink: 'https://traffic-signal-sigma.vercel.app',
+    tryNowLink:'https://parking-system-orpin.vercel.app/',
     image: smartParking
   }
 };
