@@ -48,7 +48,7 @@ const modelDetails = {
     description: 'We\'re revolutionizing the way you park! At Traffic Hive, we bring you a seamless, smart, and efficient parking experience designed to save your time and eliminate stress. Whether you\'re heading to work, shopping, or enjoying a day out, our system ensures a hassle-free journey from start to finish.',
     subtitle: 'Find. Park. Relax. Welcome to the future of parking!',
     buttonText: 'BOOK NOW',
-    tryNowLink: 'https://parking-system-orpin.vercel.app/',
+    tryNowLink: 'https://traffic-signal-sigma.vercel.app',
     image: smartParking
   }
 };
