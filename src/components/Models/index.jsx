@@ -4,7 +4,6 @@ import './styles.css';
 import smartTrafficLight from '../../assets/smarttrafficlight.png';
 import smartParking from '../../assets/smartparking.png';
 import trafficChatbot from '../../assets/trafficchatbot.png';
-import realTimeRoute from '../../assets/realtimeroute.png';
 import dataDrivenInsights from '../../assets/datadriveninsights.png';
 
 const models = [
@@ -31,12 +30,6 @@ const models = [
     title: 'Data-Driven Insights',
     description: 'Advanced analytics for better urban planning and improved traffic management using cutting-edge AI technologies.',
     image: dataDrivenInsights
-  },
-  {
-    id: 'real-time-route',
-    title: 'Real-Time Route Guidance',
-    description: 'AI-powered updates to help commuters avoid bottlenecks and save valuable travel time.',
-    image: realTimeRoute
   }
 ];
 
